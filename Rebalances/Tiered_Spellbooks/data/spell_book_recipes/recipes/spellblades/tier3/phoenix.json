@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "minecraft:nether_star"
+    },
+    "base": {
+      "item": "spellbladenext:fire_battlemage_spell_book"
+    },
+    "result": {
+      "item": "spellbladenext:phoenix_spell_book"
+    },
+    "template": {
+      "item": "minecraft:amethyst_shard"
+    }
+}

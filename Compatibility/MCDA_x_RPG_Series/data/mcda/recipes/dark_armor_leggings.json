@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "minecraft:redstone_block"
+    },
+    "base": {
+      "item": "rogues:netherite_berserker_armor_legs"
+    },
+    "result": {
+      "item": "mcda:dark_armor_leggings"
+    },
+    "template": {
+      "item": "mcda:fabric_bolt_black"
+    }
+}

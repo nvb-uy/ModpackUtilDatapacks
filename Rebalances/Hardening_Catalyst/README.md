@@ -1,0 +1,1 @@
+This datapack disables the Hardening Catalyst on items that may break balance heavily, such as Bewitchment's Death Protection Poppets, Gilded Armor from MC Dungeons Armors, etc.

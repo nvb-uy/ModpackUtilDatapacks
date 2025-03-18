@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "rogues:rogue_spell_book"
+    },
+    "base": {
+      "item": "wizards:arcane_spell_book"
+    },
+    "result": {
+      "item": "spellbladenext:arcane_battlemage_spell_book"
+    },
+    "template": {
+      "item": "runes:arcane_stone"
+    }
+}

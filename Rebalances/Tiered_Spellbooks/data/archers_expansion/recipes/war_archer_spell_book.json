@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "minecraft:nether_star"
+    },
+    "base": {
+      "item": "archers:archer_spell_book"
+    },
+    "result": {
+      "item": "archers_expansion:war_archer_spell_book"
+    },
+    "template": {
+      "item": "minecraft:blaze_powder"
+    }
+}

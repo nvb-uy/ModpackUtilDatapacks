@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "rogues:rogue_spell_book"
+    },
+    "base": {
+      "item": "wizards:fire_spell_book"
+    },
+    "result": {
+      "item": "spellbladenext:fire_battlemage_spell_book"
+    },
+    "template": {
+      "item": "runes:fire_stone"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "mcda:soul_robe_chestplate"
+    },
+    "base": {
+      "item": "rogues:netherite_assassin_armor_chest"
+    },
+    "result": {
+      "item": "mcda:souldancer_robe_chestplate"
+    },
+    "template": {
+      "item": "mcda:upgrade_core_shadows"
+    }
+}

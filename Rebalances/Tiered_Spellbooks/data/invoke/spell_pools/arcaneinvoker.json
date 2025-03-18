@@ -1,0 +1,8 @@
+{
+    "spell_ids": [
+      "invoke:onearcane",
+      "invoke:twoarcane",
+      "invoke:threearcane"
+    ],
+    "creatable_as_spellbook": false
+}

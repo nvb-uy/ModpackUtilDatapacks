@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "death_knights:runecarved_stone"
+    },
+    "base": {
+      "item": "rogues:warrior_spell_book"
+    },
+    "result": {
+      "item": "death_knights:blood_spell_book"
+    },
+    "template": {
+      "item": "death_knights:blood_stone"
+    }
+}

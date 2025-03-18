@@ -1,0 +1,1 @@
+Adds recipe compatibility to progress through MCDA armors from RPG Series armor sets. Heavily recommended to use Custom Item Attributes to change the attributes of each item as by default these might not make much sense. Initially done for the Prominence modpack, where these armor sets are direct upgrades and have better attributes.

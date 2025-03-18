@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " A ",
+        "BEC",
+        " D "
+    ],
+    "key": {
+        "A": {
+            "item": "wizards:fire_spell_book"
+        },
+        "B": {
+            "item": "wizards:frost_spell_book"
+        },
+        "C": {
+            "item": "wizards:arcane_spell_book"
+        },
+        "D": {
+            "item": "minecraft:nether_star"
+        },
+        "E": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "invoke:invoker_spell_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": {
+      "item": "paladins:priest_spell_book"
+    },
+    "base": {
+      "item": "rogues:warrior_spell_book"
+    },
+    "result": {
+      "item": "paladins:paladin_spell_book"
+    },
+    "template": {
+      "item": "runes:healing_stone"
+    }
+}

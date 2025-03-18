@@ -1,0 +1,9 @@
+{
+    "spell_ids": [
+      "invoke:runic_invocation",
+      "invoke:rah",
+      "invoke:heo",
+      "invoke:gon"
+    ],
+    "creatable_as_spellbook": false
+}
