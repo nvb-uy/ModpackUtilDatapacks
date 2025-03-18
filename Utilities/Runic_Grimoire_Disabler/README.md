@@ -3,3 +3,5 @@ This simple datapack removes the Runic Grimoire on join. This was made because s
 There is also no config option, so this is the only way as of now.
 
 Requires Simply Swords
+
+https://www.curseforge.com/minecraft/texture-packs/runic-grimoire-remover
